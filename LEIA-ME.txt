@@ -22,3 +22,11 @@ Envie o conteúdo de dist para uma hospedagem de sites estáticos, deixando inde
 VERIFICAÇÃO
 Verificados: nome obrigatório, uma tentativa por pergunta, pontuação 100/0, bloqueio ao reabrir, conclusão, armazenamento do ranking sem duplicações da mesma partida, empates, nomes exibidos como texto e troca de jogador preservando os resultados. A aparência e o áudio ainda devem ser conferidos no aparelho da feira.
 
+
+
+
+NOVAS BRINCADEIRAS
+Memória da ciência: encontre quatro pares de desenhos. Monte o robô: escolha cabeça, corpo e símbolo, sem resposta errada. Vamos conversar: três pedidos com uma escolha por pedido. São brincadeiras livres, independentes das quatro missões e do ranking. Podem ser reiniciadas sem mudar a pontuação dos alunos.
+
+Para jogar offline ou hospedar na Vercel, mantenha index.html, mini-games.js e mini-games.css na mesma pasta. Não é necessário comando de build.
+
