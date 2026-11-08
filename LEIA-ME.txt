@@ -1,0 +1,24 @@
+A CIÊNCIA DO FUTURO — JOGO ILUSTRADO COM RANKING
+
+COMO ABRIR
+Extraia o ZIP e abra index.html. Funciona sem instalação e sem login. Para manter o ranking, use sempre o mesmo navegador, aparelho e endereço do jogo. Evite janela anônima. Alguns navegadores limitam armazenamento em arquivos locais; se aparecer aviso de falha ao salvar, publique em uma hospedagem estática.
+
+COMO JOGAR
+1. Digite o primeiro nome ou um apelido e clique em Começar minha aventura.
+2. Escolha uma das quatro missões. Um adulto pode ler com a criança, ou usar Ouvir.
+3. Cada pergunta permite UMA resposta por partida. Acerto: 100 pontos e comemoração. Erro: 0 pontos, reação engraçada e explicação da alternativa correta. Não há segunda tentativa na mesma pergunta, mesmo ao reabrir a missão.
+4. Depois das quatro perguntas, a pontuação entra automaticamente no ranking, até 400 pontos. Clique em Ver ranking dos alunos no final. Pontuações iguais dividem a mesma posição.
+5. Clique em Próximo aluno para iniciar outra partida. O ranking permanece. O mesmo apelido pode aparecer mais de uma vez se jogar outras partidas.
+
+ONDE FICA O RANKING
+Nomes/apelidos e pontos ficam apenas no armazenamento deste navegador. Não são enviados a um servidor nem compartilhados entre aparelhos. Apagar os dados do navegador apaga o ranking. A partida atual também é guardada na sessão, quando o navegador permite, para não liberar outra resposta ao atualizar a página. Este jogo não verifica a identidade do aluno: a regra é uma tentativa por pergunta em cada partida.
+
+SOM E MOVIMENTO
+Som ligado / Som desligado controla os efeitos de acerto e erro. A voz tem o botão Parar voz. Voz em português e disponibilidade offline dependem do aparelho. Pausar movimentos e a preferência de movimento reduzido também são respeitados. Os sons de resposta e as ilustrações funcionam offline em navegadores compatíveis.
+
+PUBLICAR
+Envie o conteúdo de dist para uma hospedagem de sites estáticos, deixando index.html na raiz publicada, ou para o site da escola. Não há dependências, banco de dados ou chaves para configurar. O ranking continuará sendo local a cada navegador, mesmo com o site publicado. Teste o endereço no aparelho da feira antes de usar.
+
+VERIFICAÇÃO
+Verificados: nome obrigatório, uma tentativa por pergunta, pontuação 100/0, bloqueio ao reabrir, conclusão, armazenamento do ranking sem duplicações da mesma partida, empates, nomes exibidos como texto e troca de jogador preservando os resultados. A aparência e o áudio ainda devem ser conferidos no aparelho da feira.
+
