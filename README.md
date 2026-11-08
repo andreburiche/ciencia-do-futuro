@@ -24,3 +24,11 @@ Nomes/apelidos e pontos ficam no armazenamento local, sem envio a servidor. Não
 As invenções escolares estão diferenciadas das tecnologias existentes. O relógio não determina sozinho a necessidade de água e não há uma cura única para todos os tipos de câncer. Referências estão dentro do jogo.
 
 Veja [LEIA-ME.txt](LEIA-ME.txt) para instruções completas.
+
+
+
+NOVAS BRINCADEIRAS
+Memória da ciência: encontre quatro pares de desenhos. Monte o robô: escolha cabeça, corpo e símbolo, sem resposta errada. Vamos conversar: três pedidos com uma escolha por pedido. São brincadeiras livres, independentes das quatro missões e do ranking. Podem ser reiniciadas sem mudar a pontuação dos alunos.
+
+Para jogar offline ou hospedar na Vercel, mantenha index.html, mini-games.js e mini-games.css na mesma pasta. Não é necessário comando de build.
+
